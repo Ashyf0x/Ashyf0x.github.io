@@ -1,11 +1,11 @@
 [site]
-title = "Ashyfox"
+title = "丁辉煳 (Ding Huihu)"
 description = "Graduate student at East China Normal University working on spatiotemporal data and diffusion models."
 favicon = "/favicon.svg"
 last_updated = "November 11, 2026"
 
 [author]
-name = "Ashyfox"
+name = "Ding Huihu"
 title = "Graduate Student"
 institution = "East China Normal University"
 avatar = "/profile.png"
