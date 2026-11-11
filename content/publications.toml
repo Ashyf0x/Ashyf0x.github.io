@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Research work on spatiotemporal data mining and diffusion models."
+source = "publications.bib"

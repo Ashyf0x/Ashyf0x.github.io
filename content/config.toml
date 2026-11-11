@@ -1,0 +1,46 @@
+[site]
+title = "Ashyfox"
+description = "Graduate student at East China Normal University working on spatiotemporal data and diffusion models."
+favicon = "/favicon.svg"
+last_updated = "November 11, 2026"
+
+[author]
+name = "Ashyfox"
+title = "Graduate Student"
+institution = "East China Normal University"
+avatar = "/profile.png"
+
+[social]
+email = ""
+location = "Shanghai, China"
+location_url = ""
+location_details = []
+google_scholar = ""
+orcid = ""
+github = "https://github.com/Ashyf0x"
+linkedin = ""
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
