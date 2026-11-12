@@ -1,4 +1,4 @@
 type = "publication"
 title = "Publications"
-description = "Research work on spatiotemporal data mining and diffusion models."
+description = "Research work on time series modeling and AI agents."
 source = "publications.bib"

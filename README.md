@@ -78,7 +78,7 @@ enable_likes = true
 ```
 
 ### 2. Homepage (`content/about.toml`)
-Customize the "About" section, "News", and "Selected Publications" on the homepage.
+Customize the "About" section, "News", and "Publications" on the homepage.
 
 ### 3. Publications (`content/publications.bib`)
 Export your publications from Google Scholar, Zotero, or Mendeley to `content/publications.bib`. PRISM automatically parses this file to generate your Publications page. Customize the display of publications by changing `selected`, `preview` and `description` keys in the bib file. 

@@ -82,7 +82,7 @@ enable_likes = true # 是否开启点赞功能
 
 ### 2. 首页内容 (`content/about.toml`)
 
-自定义首页的“关于我 (About)”、“最新动态 (News)”以及“精选论文 (Selected Publications)”板块。
+自定义首页的“关于我 (About)”、“最新动态 (News)”以及“论文 (Publications)”板块。
 
 ### 3. 论文列表 (`content/publications.bib`)
 
