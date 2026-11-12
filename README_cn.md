@@ -4,7 +4,7 @@
 
 # PRISM
 
-[English](README.md) · **中文** · [在线演示](https://prism-demo.pages.dev) · [更新日志](CHANGELOG.md)
+[English](README.md) · **中文** · [在线演示](https://prism-demo.pages.dev) · [更新日志](CHANGELOG.md) · [内容修改指南](CONTENT_GUIDE.md)
 
 **如果你喜欢这个项目，请给一个 Star ⭐️**
 
